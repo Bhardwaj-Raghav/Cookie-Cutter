@@ -23,9 +23,6 @@
   - getByIndex
     -- Parameter : cookie_array_index
     -- return: cookie_object (object contain both key and value)
-  - Drag and drop images (requires your Dropbox account be linked)
-    -- Parameter : cookie key
-    -- return: cookie value
   - getIndex
     -- Parameter : cookie_key
     -- return: cookie_array_index
@@ -37,4 +34,4 @@
     -- Parameter : cookie_key
 
 ***
-NOTE:  All get function return false (boolean) if data not found.
+**NOTE**:  All get function return false (boolean) if data not found.

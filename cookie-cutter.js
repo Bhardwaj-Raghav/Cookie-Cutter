@@ -77,7 +77,7 @@ function CookieCutter() {
   };
 
   this.update = function (key, value, expires = "", path = "/") {
-    this.set(key, value, (expires = ""), (path = "/"));
+    this.set(key, value, expires , path);
   };
 
   this.delete = function (key) {

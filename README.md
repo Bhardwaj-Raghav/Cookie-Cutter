@@ -2,7 +2,7 @@
 
  * This is a Javascript Class to work with Cookies.
  * You Must create a new CookieCutter Object for it to work properly
- * Example ```javascript const cookieCutter = new CookieCutter() // new Keyword is important ```
+ * Example ``` const cookieCutter = new CookieCutter() // new Keyword is important ```
 ***
 ### Available Functions:
   - get

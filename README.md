@@ -1,6 +1,6 @@
 # Cookie-Cutter
 
- * This is a Javascript Class to work with Cookies.
+ * This is a Javascript Constructors function to work with Cookies.
  * You Must create a new CookieCutter Object for it to work properly
  * Example ``` const cookieCutter = new CookieCutter() // new Keyword is important ```
 ***
